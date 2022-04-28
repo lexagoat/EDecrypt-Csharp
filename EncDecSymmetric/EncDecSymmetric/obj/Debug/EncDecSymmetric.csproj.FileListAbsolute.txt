@@ -1,0 +1,8 @@
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\bin\Debug\EncDecSymmetric.exe.config
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\bin\Debug\EncDecSymmetric.exe
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\bin\Debug\EncDecSymmetric.pdb
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\obj\Debug\EncDecSymmetric.csproj.AssemblyReference.cache
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\obj\Debug\EncDecSymmetric.csproj.SuggestedBindingRedirects.cache
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\obj\Debug\EncDecSymmetric.csproj.CoreCompileInputs.cache
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\obj\Debug\EncDecSymmetric.exe
+C:\Users\onurs\OneDrive\Masaüstü\EncDecSymmetric\EncDecSymmetric\EncDecSymmetric\obj\Debug\EncDecSymmetric.pdb
